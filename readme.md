@@ -1,4 +1,6 @@
 # patternplate-transform-uglify
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/patternplate-transform-uglify.svg)](https://greenkeeper.io/)
 [patternplate](/sinnerschrader/patternplate) patternplate transform uglifying js sources
 
 ## Installation
