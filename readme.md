@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
 # patternplate-transform-uglify
 [patternplate](/sinnerschrader/patternplate) patternplate transform uglifying js sources
 
